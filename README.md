@@ -39,6 +39,7 @@
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nivyanyctra&theme=dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivyanyctra&theme=dark"  />
+  <br/>
   <img src="https://ghstats.dev/api/card?username=nivyanyctra&theme=midnight_sakura" alt="GitHub Stats Card" />
 </div>
 
