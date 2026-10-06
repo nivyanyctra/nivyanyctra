@@ -29,8 +29,8 @@
 <h2 align="center"><b>Donate</h2>
 
 <p align="center">
-  <a href="https://www.paypal.com/paypalme/niveanyctra" target="_blank">
-    <img src="https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/paypal.svg?sanitize=true" />
+  <a href="https://tako.id/NivyaNyctra" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D560BAQGxKM6ssaCXzQ/company-logo_200_200/company-logo_200_200/0/1729445768054/takodotid_logo?e=2147483647&v=beta&t=bUNXwYgLO1M7IR4Pvr9RoOg6W-6Rf_SNRLd8jHGVSP8" />
   </a>
 </p>
 
